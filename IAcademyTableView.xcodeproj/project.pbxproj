@@ -13,6 +13,10 @@
 		263F7B9524D4A36900403448 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 263F7B9324D4A36900403448 /* Main.storyboard */; };
 		263F7B9724D4A38800403448 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 263F7B9624D4A38800403448 /* Assets.xcassets */; };
 		263F7B9A24D4A38800403448 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 263F7B9824D4A38800403448 /* LaunchScreen.storyboard */; };
+		26535BE724E18B3200F0FCE4 /* SectionHeaderFooterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26535BE624E18B3200F0FCE4 /* SectionHeaderFooterViewController.swift */; };
+		2667E0F824E069D400D10B4E /* InstagramViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2667E0F724E069D400D10B4E /* InstagramViewController.swift */; };
+		2667E0FB24E06ABA00D10B4E /* PostTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2667E0F924E06ABA00D10B4E /* PostTableViewCell.swift */; };
+		2667E0FC24E06ABA00D10B4E /* PostTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2667E0FA24E06ABA00D10B4E /* PostTableViewCell.xib */; };
 		2682FD4924DB37BE003C3C41 /* CollectionTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2682FD4824DB37BE003C3C41 /* CollectionTableViewController.swift */; };
 		2682FD4E24DB3ACF003C3C41 /* CollectionTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2682FD4C24DB3ACF003C3C41 /* CollectionTableViewCell.swift */; };
 		2682FD4F24DB3ACF003C3C41 /* CollectionTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2682FD4D24DB3ACF003C3C41 /* CollectionTableViewCell.xib */; };
@@ -27,6 +31,7 @@
 		269D1CED24D5FE4700ECCB9E /* MyTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 269D1CEB24D5FE4700ECCB9E /* MyTableViewCell.xib */; };
 		269D1CF024D6039F00ECCB9E /* FieldTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 269D1CEE24D6039F00ECCB9E /* FieldTableViewCell.swift */; };
 		269D1CF124D6039F00ECCB9E /* FieldTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 269D1CEF24D6039F00ECCB9E /* FieldTableViewCell.xib */; };
+		26DF453824DF175E005DAC39 /* SearchableTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26DF453724DF175E005DAC39 /* SearchableTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +43,10 @@
 		263F7B9624D4A38800403448 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		263F7B9924D4A38800403448 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		263F7B9B24D4A38800403448 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		26535BE624E18B3200F0FCE4 /* SectionHeaderFooterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SectionHeaderFooterViewController.swift; sourceTree = "<group>"; };
+		2667E0F724E069D400D10B4E /* InstagramViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstagramViewController.swift; sourceTree = "<group>"; };
+		2667E0F924E06ABA00D10B4E /* PostTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostTableViewCell.swift; sourceTree = "<group>"; };
+		2667E0FA24E06ABA00D10B4E /* PostTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = PostTableViewCell.xib; sourceTree = "<group>"; };
 		2682FD4824DB37BE003C3C41 /* CollectionTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionTableViewController.swift; sourceTree = "<group>"; };
 		2682FD4C24DB3ACF003C3C41 /* CollectionTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionTableViewCell.swift; sourceTree = "<group>"; };
 		2682FD4D24DB3ACF003C3C41 /* CollectionTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CollectionTableViewCell.xib; sourceTree = "<group>"; };
@@ -52,6 +61,7 @@
 		269D1CEB24D5FE4700ECCB9E /* MyTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MyTableViewCell.xib; sourceTree = "<group>"; };
 		269D1CEE24D6039F00ECCB9E /* FieldTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FieldTableViewCell.swift; sourceTree = "<group>"; };
 		269D1CEF24D6039F00ECCB9E /* FieldTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = FieldTableViewCell.xib; sourceTree = "<group>"; };
+		26DF453724DF175E005DAC39 /* SearchableTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchableTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +94,9 @@
 		263F7B8C24D4A36900403448 /* IAcademyTableView */ = {
 			isa = PBXGroup;
 			children = (
+				26535BE524E18A6100F0FCE4 /* section_header_footer */,
+				2667E0F624E069B100D10B4E /* instagramfeed */,
+				26DF453624DF1710005DAC39 /* searchabletableview */,
 				2682FD4724DB3780003C3C41 /* collectionviewintableview */,
 				269D1CE724D5F8B500ECCB9E /* custom2 */,
 				269D1CE224D5EAB200ECCB9E /* custom */,
@@ -97,6 +110,24 @@
 				269D1CDE24D5E6EA00ECCB9E /* DashboardViewController.swift */,
 			);
 			path = IAcademyTableView;
+			sourceTree = "<group>";
+		};
+		26535BE524E18A6100F0FCE4 /* section_header_footer */ = {
+			isa = PBXGroup;
+			children = (
+				26535BE624E18B3200F0FCE4 /* SectionHeaderFooterViewController.swift */,
+			);
+			path = section_header_footer;
+			sourceTree = "<group>";
+		};
+		2667E0F624E069B100D10B4E /* instagramfeed */ = {
+			isa = PBXGroup;
+			children = (
+				2667E0F724E069D400D10B4E /* InstagramViewController.swift */,
+				2667E0F924E06ABA00D10B4E /* PostTableViewCell.swift */,
+				2667E0FA24E06ABA00D10B4E /* PostTableViewCell.xib */,
+			);
+			path = instagramfeed;
 			sourceTree = "<group>";
 		};
 		2682FD4724DB3780003C3C41 /* collectionviewintableview */ = {
@@ -147,6 +178,14 @@
 				269D1CEF24D6039F00ECCB9E /* FieldTableViewCell.xib */,
 			);
 			path = custom2;
+			sourceTree = "<group>";
+		};
+		26DF453624DF1710005DAC39 /* searchabletableview */ = {
+			isa = PBXGroup;
+			children = (
+				26DF453724DF175E005DAC39 /* SearchableTableViewController.swift */,
+			);
+			path = searchabletableview;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -210,6 +249,7 @@
 				2682FD4F24DB3ACF003C3C41 /* CollectionTableViewCell.xib in Resources */,
 				269D1CED24D5FE4700ECCB9E /* MyTableViewCell.xib in Resources */,
 				263F7B9A24D4A38800403448 /* LaunchScreen.storyboard in Resources */,
+				2667E0FC24E06ABA00D10B4E /* PostTableViewCell.xib in Resources */,
 				269D1CF124D6039F00ECCB9E /* FieldTableViewCell.xib in Resources */,
 				263F7B9724D4A38800403448 /* Assets.xcassets in Resources */,
 				269D1CE624D5EAD800ECCB9E /* DemoTableViewCell.xib in Resources */,
@@ -227,15 +267,19 @@
 			files = (
 				269D1CE524D5EAD700ECCB9E /* DemoTableViewCell.swift in Sources */,
 				2682FD4924DB37BE003C3C41 /* CollectionTableViewController.swift in Sources */,
+				2667E0FB24E06ABA00D10B4E /* PostTableViewCell.swift in Sources */,
 				2682FD5624DB40F8003C3C41 /* MyCollectionViewCell.swift in Sources */,
+				2667E0F824E069D400D10B4E /* InstagramViewController.swift in Sources */,
 				269D1CEC24D5FE4700ECCB9E /* MyTableViewCell.swift in Sources */,
 				269D1CE924D5F8DB00ECCB9E /* Custom2ViewController.swift in Sources */,
 				263F7B9224D4A36900403448 /* SimpleTableViewController.swift in Sources */,
+				26DF453824DF175E005DAC39 /* SearchableTableViewController.swift in Sources */,
 				263F7B8E24D4A36900403448 /* AppDelegate.swift in Sources */,
 				2682FD4E24DB3ACF003C3C41 /* CollectionTableViewCell.swift in Sources */,
 				263F7B9024D4A36900403448 /* SceneDelegate.swift in Sources */,
 				269D1CDF24D5E6EA00ECCB9E /* DashboardViewController.swift in Sources */,
 				269D1CE124D5E75000ECCB9E /* CustomTableViewController.swift in Sources */,
+				26535BE724E18B3200F0FCE4 /* SectionHeaderFooterViewController.swift in Sources */,
 				269D1CF024D6039F00ECCB9E /* FieldTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
